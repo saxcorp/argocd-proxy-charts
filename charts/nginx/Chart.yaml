@@ -4,6 +4,6 @@ version: "0.0.1"
 appVersion: "0.0.1"
 
 dependencies:
-  - name: nginx
-    version: 0.0.1
-    repository: "https://raw.githubusercontent.com/timtsoitt/argocd-base-charts/main/releases"
+#  - name: nginx
+#    version: 0.0.1
+#    repository: "https://raw.githubusercontent.com/timtsoitt/argocd-base-charts/main/releases"
